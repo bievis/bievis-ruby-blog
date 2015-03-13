@@ -1,0 +1,1 @@
+Proyecto para la creación de un blog en Ruby on Rails.
